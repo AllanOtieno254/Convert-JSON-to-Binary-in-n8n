@@ -1,4 +1,4 @@
-# ** Convert JSON to Binary in n8n**  
+#  Convert JSON to Binary in n8n 
 
 ## **Overview**  
 This n8n workflow fetches random poetry data from the **Poetry DB API**, converts the JSON response into a binary file, writes the file to disk, and then reads it back to verify the process.  
